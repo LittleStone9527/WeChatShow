@@ -1,0 +1,10 @@
+/*keyframe*/
+/*加载动画*/
+@keyframes xuanzhuan {
+	0%{transform: rotate(0)}
+	100%{transform: rotate(360deg)}
+}
+/*@-webkit-keyframes xuanzhuan {*/
+	/*0%{-webkit-transform: rotate(0)}*/
+	/*100%{-webkit-transform: rotate(360deg)}*/
+/*}*/

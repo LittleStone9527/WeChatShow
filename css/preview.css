@@ -1,0 +1,17 @@
+.main {
+	width: 645px;
+	height: 550px;
+	margin: 0 auto;
+	border: 1px solid red;
+	background: url("../images/previewbg.jpg") no-repeat;
+	position: relative;
+}
+
+.main iframe {
+	/*background: tomato none repeat scroll 0 0;*/
+	height: 412px;
+	left: 28px;
+	position: absolute;
+	top: 62px;
+	width: 266px;
+}

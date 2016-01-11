@@ -1,0 +1,25 @@
+
+.loading {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.circle {
+	background: url("../images/loading.png") no-repeat;
+	background-size: cover;
+	height: 100%;
+	position: absolute;
+	width: 100%;
+	-webkit-animation: xuanzhuan 1.2s linear infinite;
+	-o-animation: xuanzhuan 1.2s linear infinite;
+	animation: xuanzhuan 1.2s linear infinite;
+}
+
+.circle_logo {
+	background: url("../images/logo.png") no-repeat;
+	background-size: cover;
+	height: 100%;
+	position: absolute;
+	width: 100%;
+}
